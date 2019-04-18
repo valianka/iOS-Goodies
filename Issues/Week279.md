@@ -1,7 +1,8 @@
 
 **Articles**
 
-* 
+* [Improve your iOS team’s productivity by building features as frameworks), by [@sashimiblade](https://twitter.com/sashimiblade)
+
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* 
+* [valianka](https://github.com/valianka)
